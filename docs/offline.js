@@ -1,0 +1,6 @@
+(()=>{'use strict';let registration=null,data={ready:false,done:0,total:0},supported='serviceWorker'in navigator;
+function paint(){for(const n of document.querySelectorAll('[data-offline]')){n.classList.toggle('ready',data.ready);n.textContent=!supported?'Офлайн недоступен':data.ready?'● Готово без интернета':data.failed?'Не всё сохранено. Повторите при подключении.':data.total?(n.dataset.offline==='compact'?'Сохраняем уроки…':'Сохранено '+data.done+' из '+data.total+' файлов'):'Подготовка офлайн…';}}
+async function prepare(){if(!supported)return;try{registration=registration||await navigator.serviceWorker.ready;const worker=registration.active;if(worker)worker.postMessage({type:'PREPARE'});}catch{data.failed=1;paint();}}
+window.ListenOffline={prepare,paint,status:()=>({...data})};
+if(supported){navigator.serviceWorker.addEventListener('controllerchange',()=>{data={ready:false,done:0,total:0};paint();prepare();});navigator.serviceWorker.addEventListener('message',e=>{if(e.data?.type==='LISTEN_OFFLINE'){data=e.data;paint();}});navigator.serviceWorker.register('sw.js').then(async r=>{registration=r;await navigator.serviceWorker.ready;prepare();}).catch(()=>{supported=false;paint();});window.addEventListener('online',prepare);}paint();
+})();

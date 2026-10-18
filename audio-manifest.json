@@ -1,0 +1,1442 @@
+[
+  {
+    "path": "audio/l01-full.mp3",
+    "lessonId": "l01",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 25.92,
+    "bytes": 155520,
+    "sha256": "3c7aa54d8082ca748ce749f01586d95b56a5b664c12a6b32a1aeba706677228c",
+    "textSha256": "3a0d31db5d9ac544f69d0b35513dd855b34e06bc8eabf99b49836d87e33b8c4a"
+  },
+  {
+    "path": "audio/l01-01.mp3",
+    "lessonId": "l01",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.12,
+    "bytes": 18720,
+    "sha256": "46b3de77590a703e41fc3139aed8dcf0878fbe5bef04309d7255d6d2c176f656",
+    "textSha256": "bbfe91c7cbb8fff1695e24b21acbf6492db41502f04dcf3899a076fb5abb5f1c"
+  },
+  {
+    "path": "audio/l01-02.mp3",
+    "lessonId": "l01",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.512,
+    "bytes": 27072,
+    "sha256": "fbeb85e10e21702ee6c8ecd677d78c5b0775536e1ac98ac9a154660918f6a95a",
+    "textSha256": "26b5a763a1ed787680a3b1bc919d442dd2ce98b33cb550b47ac9b9602f55f0e9"
+  },
+  {
+    "path": "audio/l01-03.mp3",
+    "lessonId": "l01",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.648,
+    "bytes": 21888,
+    "sha256": "82036fff1b31d4298e0bef583c87312cacfa17b039c9f1821f337b7681ea1797",
+    "textSha256": "b75c271a150fc935dbbac24bd9446e2fb0fb9ec659ae2d856f0e2b545ccbc8a2"
+  },
+  {
+    "path": "audio/l01-04.mp3",
+    "lessonId": "l01",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.296,
+    "bytes": 25776,
+    "sha256": "2356ed7d5a01c028ec87441bf38a9de2a333259f6c19e84741dc59e6f4d35eda",
+    "textSha256": "746afa93411b638d296e66cb2889dfc61105fd5cb1d2923a3651cea9c1722af6"
+  },
+  {
+    "path": "audio/l01-05.mp3",
+    "lessonId": "l01",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.816,
+    "bytes": 22896,
+    "sha256": "25fc714791d9eb4a5c6382e31fbb6af5112cfdcdd841fb178fb9ac863b6f5732",
+    "textSha256": "dba3460e499cea69330ea1f76fb750e36a3c0997de5edc605f2369ff9cc71655"
+  },
+  {
+    "path": "audio/l01-06.mp3",
+    "lessonId": "l01",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.48,
+    "bytes": 20880,
+    "sha256": "8f14a14f2c13f287be8c17d30184c5b8d06fa7b612a803fc3602d8ecd4ca7779",
+    "textSha256": "a77234330000f83dda3fdf72786d9f04b862ec96330e772bbdd88bcae37db776"
+  },
+  {
+    "path": "audio/l01-07.mp3",
+    "lessonId": "l01",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.672,
+    "bytes": 22032,
+    "sha256": "0353983e4d7c5e67be935d8813cee3d1140c57745412bc1217ef2a2d810f84f2",
+    "textSha256": "9b62d16d987feb71931450a4d55db45b827e2d4726ca3f7200122689c2e48856"
+  },
+  {
+    "path": "audio/l02-full.mp3",
+    "lessonId": "l02",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 26.304,
+    "bytes": 157824,
+    "sha256": "7bd922823865999d469af3d843a6d53de9f69002ba050481f46d7e9e699f5f63",
+    "textSha256": "9c342c3bfc8c9d601f1ecba1b93e583765edf9ef269374aa8ded4b51efcaed6e"
+  },
+  {
+    "path": "audio/l02-01.mp3",
+    "lessonId": "l02",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.216,
+    "bytes": 19296,
+    "sha256": "d88e2a6b3a605631269a6ef2c455a3f8d290fc7842609cf306308749f814531a",
+    "textSha256": "ba4c08f2cff0c5c77f3fc43493067d20c54dfbcb34110b1170ac0bb9d74bccde"
+  },
+  {
+    "path": "audio/l02-02.mp3",
+    "lessonId": "l02",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.512,
+    "bytes": 27072,
+    "sha256": "55fc61ad57a8106098a750e1ae182e03037862e8127f5ec96c6a9a7e5c1b1bac",
+    "textSha256": "15eabf30839797ed16f88db52bb3a8a6209976f5b57af28d8a50d82043b6eee8"
+  },
+  {
+    "path": "audio/l02-03.mp3",
+    "lessonId": "l02",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.744,
+    "bytes": 22464,
+    "sha256": "4be210361610558fe3684469c0a35794e8a9d82ced0ac6797a6f2a7f0d73ab5d",
+    "textSha256": "5db8cbf7a7c3e85b12e17fdf40652388586c75a6c91fafa35b182a0fd66fe7f7"
+  },
+  {
+    "path": "audio/l02-04.mp3",
+    "lessonId": "l02",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.744,
+    "bytes": 22464,
+    "sha256": "420b663a6eb1f74ff6c433b22b14489dcd58c8413af416b928338dca4474fdeb",
+    "textSha256": "efb940e85a079ff3447d0e73208a30a5f0209f784e840de93660fa38ceaa9a95"
+  },
+  {
+    "path": "audio/l02-05.mp3",
+    "lessonId": "l02",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.816,
+    "bytes": 22896,
+    "sha256": "3db7e9ad6ea6735ef7adb975b547b64dd50841e8d6f64abaa90a2069ad822152",
+    "textSha256": "692b519b66a67e581d288726ba37985328559a3025ea1ce28c7a6e77ee27abc4"
+  },
+  {
+    "path": "audio/l02-06.mp3",
+    "lessonId": "l02",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.152,
+    "bytes": 24912,
+    "sha256": "4466b9774619de2f394f7c3e87d8c4f89061c5b6452759b44926b61ee788c7f2",
+    "textSha256": "244523f1b0cabcd9938014e03fb1bd38c091acb101a00221c497bf7e2b342097"
+  },
+  {
+    "path": "audio/l02-07.mp3",
+    "lessonId": "l02",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.792,
+    "bytes": 22752,
+    "sha256": "a184bfe594b16fbb0c1ca4c2caf2969dc13189ebfe8ec6bafed4c8b016404271",
+    "textSha256": "0f11c86c4411819432a18ef3c72b37e8a873ceb45a592d3a6f304f5cf5239ba6"
+  },
+  {
+    "path": "audio/l03-full.mp3",
+    "lessonId": "l03",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 26.52,
+    "bytes": 159120,
+    "sha256": "b97b6a5e3f4eaa0f2102974d39495d5ccf1dfeeaffca978d4b5989c328a7b38d",
+    "textSha256": "7af29aa4bf3086f0016ddc06bef5673ca2b5c06a7e9d8e3245e2e9e4be15693c"
+  },
+  {
+    "path": "audio/l03-01.mp3",
+    "lessonId": "l03",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.912,
+    "bytes": 23472,
+    "sha256": "fc4ea89029cc278601c07eae092b88b7b75de48abbca02b39df9f833b3483888",
+    "textSha256": "505ca1690d1b1f1593ce5ef600e71903f9833d355943c7f9dbb8c4af2daa991d"
+  },
+  {
+    "path": "audio/l03-02.mp3",
+    "lessonId": "l03",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.552,
+    "bytes": 21312,
+    "sha256": "17c090abcd2d75389243dfa56c166fe018168065884f8b92f692bb3b12676956",
+    "textSha256": "0f1d8c8f9a17b6c3748097769e8e492413bdc537a826fb29d006e5863ffe5858"
+  },
+  {
+    "path": "audio/l03-03.mp3",
+    "lessonId": "l03",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.696,
+    "bytes": 22176,
+    "sha256": "cedb024982bc0bb24fb6a0b2e58cd090973afbdf94e711b78adf54fd3ed88f0e",
+    "textSha256": "afd2c57f57794c4b1a12212decc235a0dcc9207a4b1ba4eff355ce013268411c"
+  },
+  {
+    "path": "audio/l03-04.mp3",
+    "lessonId": "l03",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.368,
+    "bytes": 26208,
+    "sha256": "b31fa02eb40378ae8dd24ed725100060fed2802e544e52aa27c6da2ebdec3438",
+    "textSha256": "3ef66cc16e0abbd24d7b355b278c28ec2548cb8dab8db184ab41a578deddf88a"
+  },
+  {
+    "path": "audio/l03-05.mp3",
+    "lessonId": "l03",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.08,
+    "bytes": 24480,
+    "sha256": "2e78cf932d2a431cfbd7e8b1ca3ca4bfbfce873db59b294167741b5ebc87df70",
+    "textSha256": "8167839157bdcaa0667c9bba77253e499c5d6f85cc6fa311dc58eb0d83a1ea66"
+  },
+  {
+    "path": "audio/l03-06.mp3",
+    "lessonId": "l03",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.528,
+    "bytes": 21168,
+    "sha256": "fe6b82a6ec3a1ac867c36b7d568d362c8af975e76935bf995a9a6210bdf3c8af",
+    "textSha256": "f64cb6bf3ed563bdbd4734a94842144dd392cfbb5dd11c4b7b6d4d597ad4d092"
+  },
+  {
+    "path": "audio/l03-07.mp3",
+    "lessonId": "l03",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.056,
+    "bytes": 24336,
+    "sha256": "df161b4c1453eb9abaab173f2a72b4b65b18248f9718eaf0e784b713f2d5700f",
+    "textSha256": "b683ceffd00a49672cd811b6ba5eab48ac16138012d406408ba3fa81c3f5ec4e"
+  },
+  {
+    "path": "audio/l04-full.mp3",
+    "lessonId": "l04",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 26.424,
+    "bytes": 158544,
+    "sha256": "68e5955aee11fc2df416aa7dabe38a2aa86ef2e3e0ff4c7ad3eabd955a495181",
+    "textSha256": "8cc654e20f7a9a0a57b2f56976ed7d794c2873ea1007ab0455f06abe852a8954"
+  },
+  {
+    "path": "audio/l04-01.mp3",
+    "lessonId": "l04",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.6,
+    "bytes": 21600,
+    "sha256": "a28e07153823e6916fe42f4b22e00dc21fc73b55e56f26531c2d7de50b01ddb3",
+    "textSha256": "afd23d9268ca8a6ad166a83c7ebeb76fb9e9a10f547040c49bad58e2d56fc311"
+  },
+  {
+    "path": "audio/l04-02.mp3",
+    "lessonId": "l04",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.768,
+    "bytes": 22608,
+    "sha256": "d8562fe6bcb27dbf245485d67cca8d66c31d47f86ff02c9a6392b8f0777c1f47",
+    "textSha256": "c15207d4d38af8c6380d1dd69bb366b5c66fed3ad7d2a6e884558d01316d85c9"
+  },
+  {
+    "path": "audio/l04-03.mp3",
+    "lessonId": "l04",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.224,
+    "bytes": 25344,
+    "sha256": "5e2c3eb62cd69fc1075e2aa40f4aa5d1d9ce6074166f38539f0208a3182574a5",
+    "textSha256": "2f42677d4c98f3d325545752cf58def1864378d4f12e26cf7bbce5fbcc9f2fd7"
+  },
+  {
+    "path": "audio/l04-04.mp3",
+    "lessonId": "l04",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.104,
+    "bytes": 24624,
+    "sha256": "e5b1cab2839fd7213f88608b05237ecefce274120a14da5c43673ed2e39d02ec",
+    "textSha256": "ebdb6d06a7615e86ba8c32bee69946b8e50384e18e6a40ce9ff11c48da8da11c"
+  },
+  {
+    "path": "audio/l04-05.mp3",
+    "lessonId": "l04",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.44,
+    "bytes": 26640,
+    "sha256": "85a46297d74ee4d017be2df9c4cd7d7ae695b9d65be3208f871134db6e379b0a",
+    "textSha256": "fecbd0c3ff13208a117e8a4686e3a21e8f775d96c4693147910b8820cf0027db"
+  },
+  {
+    "path": "audio/l04-06.mp3",
+    "lessonId": "l04",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.408,
+    "bytes": 20448,
+    "sha256": "85412ed7aab3528372efc4f705e3df39c73c8d674556b11e1fe58e3044662021",
+    "textSha256": "a41a7a8fc35ca6a32ec4794e9b35460043764ee5c6e4cc169847b491d6dde3e8"
+  },
+  {
+    "path": "audio/l04-07.mp3",
+    "lessonId": "l04",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.552,
+    "bytes": 21312,
+    "sha256": "7a59a912d22c7c81c0b774c6e87420af17a1b4bc7fb2193249552b12900b34f9",
+    "textSha256": "ee0bb355fac07caf9217de578bdd07bb5664ddf2d38cba940b1e7b97eb5dfdf1"
+  },
+  {
+    "path": "audio/l05-full.mp3",
+    "lessonId": "l05",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 24.552,
+    "bytes": 147312,
+    "sha256": "8caec2b075e6c80c03ec395defbcb6ab257e1e33289dc3d7168cbda4e50f5ea4",
+    "textSha256": "1e50f03b8c30ec7c3523b984971dc97143fb45990bfe1a61c6adfe12b1fc9155"
+  },
+  {
+    "path": "audio/l05-01.mp3",
+    "lessonId": "l05",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.888,
+    "bytes": 23328,
+    "sha256": "a45ac1100beded5a8004d863926982536be9e37258772d36c39f503ce8d514f0",
+    "textSha256": "9073fe3daf21c060dd540ca6dee0e30c38c2c0924ab97f45ac377bba48e007c6"
+  },
+  {
+    "path": "audio/l05-02.mp3",
+    "lessonId": "l05",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.552,
+    "bytes": 21312,
+    "sha256": "d8c9219dd40d51fe01c61c8e6adf808559affd649ccd8adf8e047b19f2e61188",
+    "textSha256": "faccea964cadc885c2bc9646b7d6bb14928fd8333394470e2969e245912035f8"
+  },
+  {
+    "path": "audio/l05-03.mp3",
+    "lessonId": "l05",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.744,
+    "bytes": 22464,
+    "sha256": "383caecbd441e8a4f30f19849e50379a9f557a6083fc6b7b6428c0f21c86737b",
+    "textSha256": "4ada411c6dd00a5ae4393ca3cbc01a6c685e4772e51f9e3b7ab01eafc6cc9d4f"
+  },
+  {
+    "path": "audio/l05-04.mp3",
+    "lessonId": "l05",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.864,
+    "bytes": 23184,
+    "sha256": "7185b0aa92a4efcfcca97ac220710c917a8a539f28f6119cc488bf7335f8ce92",
+    "textSha256": "3de41df3e1a7dd02f5b40667320c8030789d5662744b92a4884627cf23f6d12c"
+  },
+  {
+    "path": "audio/l05-05.mp3",
+    "lessonId": "l05",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.024,
+    "bytes": 18144,
+    "sha256": "6149e559de8cbf7a27e2597d3a523e432f7a651ddaf621c72397247944edf633",
+    "textSha256": "feb9b43f74cd45e42c3d6bdacfcaf4200c991f9bbc9692f9c8edd8b58de17853"
+  },
+  {
+    "path": "audio/l05-06.mp3",
+    "lessonId": "l05",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.696,
+    "bytes": 22176,
+    "sha256": "ce1916e8225de506e98240edaabfdd1b4abae1132c9db565152eda93f1218129",
+    "textSha256": "d044a7f42102b7de3affdefd52d02aeba4b6a84f1277e341c502e6882b044369"
+  },
+  {
+    "path": "audio/l05-07.mp3",
+    "lessonId": "l05",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.48,
+    "bytes": 20880,
+    "sha256": "14b05b99c2b97e8188c1d23d4bd065e0f46a76060b28344e1ee9358dadbc70f0",
+    "textSha256": "16b9be31334ee4aafc77639bd9eaee62dc19eab2aefda63ba899321dad2b8a3c"
+  },
+  {
+    "path": "audio/l06-full.mp3",
+    "lessonId": "l06",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 26.808,
+    "bytes": 160848,
+    "sha256": "112e36badb2bf8066b354ae3e377a36efdd4392d043caf15252ab6982d1d2a1d",
+    "textSha256": "23c371e822c568f401a8c34a7754fa9dff22ba2b3b3dd327ee670082b95ba98d"
+  },
+  {
+    "path": "audio/l06-01.mp3",
+    "lessonId": "l06",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.824,
+    "bytes": 28944,
+    "sha256": "53ebe9e4edbeeb9c57a5d7191d396c41368b3bc023b14d444887cf2d1fb741aa",
+    "textSha256": "f636ca3489bede1758c8e9e843527fb52a2a300cb09a3edb8e0050783c6c188c"
+  },
+  {
+    "path": "audio/l06-02.mp3",
+    "lessonId": "l06",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.624,
+    "bytes": 21744,
+    "sha256": "ea7e545141e3ba8a12ac2d4c027538ce3249274ba86201e32e901039a5caeb18",
+    "textSha256": "126556174d48a14b220bfeb6343d4be3dbc56905d280d8843f05bd33fb5992da"
+  },
+  {
+    "path": "audio/l06-03.mp3",
+    "lessonId": "l06",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.624,
+    "bytes": 21744,
+    "sha256": "cfd02e5831c9ee040acf18dfe65bd9c3f1871f174f1ad1871d4bd9e103dfe125",
+    "textSha256": "4774bec6da0b0ee4abc1eef4efe265919fca3de3aad15116316b0c6b35125a82"
+  },
+  {
+    "path": "audio/l06-04.mp3",
+    "lessonId": "l06",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.576,
+    "bytes": 21456,
+    "sha256": "b61277859e5e3fc4f7362fd67e083ddb4bafa80bccb029ab47936fbdf2f69c6c",
+    "textSha256": "235f5a6bd464f9038219228d4b1875e05d4f34b928a71551c3bcd8833241b2c5"
+  },
+  {
+    "path": "audio/l06-05.mp3",
+    "lessonId": "l06",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.528,
+    "bytes": 21168,
+    "sha256": "92b036d6e35102c429c4bcfe03e7bfc0bd7be4649f7db6da6e9156848d282e29",
+    "textSha256": "dd995a4ca295d94325679697cf3ea7eb043d86c11f5460114508356a404dfba0"
+  },
+  {
+    "path": "audio/l06-06.mp3",
+    "lessonId": "l06",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.768,
+    "bytes": 22608,
+    "sha256": "dc9c73541e9689f1487f106bd441617099cc96490105b1d9cc8c813620e43725",
+    "textSha256": "48d7056f57d67b807a90d137b5e3bf57eb3bdc7b95f93423e8b8480c863e6967"
+  },
+  {
+    "path": "audio/l06-07.mp3",
+    "lessonId": "l06",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.488,
+    "bytes": 26928,
+    "sha256": "0316c7ce6c2e6a32d3406168f19cb0eca6052b96dc14f72085420223739ccf52",
+    "textSha256": "27b5576d929c55bc3a17ef262d92c4693807242af36abce773cf63fd49d041e1"
+  },
+  {
+    "path": "audio/l07-full.mp3",
+    "lessonId": "l07",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 32.352,
+    "bytes": 194112,
+    "sha256": "4f90ff7e8853482f2339bf0ded65d3730eafecb9fe1ffcebadee90c52cb78b4d",
+    "textSha256": "9881e6978a829f9459a33c99c986026fc536c4cc5ee0d702d8a05f99c729e657"
+  },
+  {
+    "path": "audio/l07-01.mp3",
+    "lessonId": "l07",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.648,
+    "bytes": 21888,
+    "sha256": "59fb47790fee7e0e0ea81e2d66051b1564006369a2919454c9f2118b4beb68bd",
+    "textSha256": "bc1788919b41c9d56d272336398de54b6d7178fc6b591fe87a535e66e9ac3ca0"
+  },
+  {
+    "path": "audio/l07-02.mp3",
+    "lessonId": "l07",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.656,
+    "bytes": 27936,
+    "sha256": "aac2dd5a77b69b5be4472a97d07f57fa5a4587dde26ed883353bba10d81694e3",
+    "textSha256": "32cc3de36048e583c84200dfd165d16418c193413b3d1574844fffbb37047823"
+  },
+  {
+    "path": "audio/l07-03.mp3",
+    "lessonId": "l07",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.016,
+    "bytes": 30096,
+    "sha256": "bad697cc0c375c574c0a7da8cf1c003d3234b9341b1b768f505d04de4de53aaa",
+    "textSha256": "c3fc2e99ca403b7ce662b359789d60f08b6915dfeabb02f9e29e917b29d94c8d"
+  },
+  {
+    "path": "audio/l07-04.mp3",
+    "lessonId": "l07",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.584,
+    "bytes": 27504,
+    "sha256": "ea70eea924b9d767f5bcc3389578dce010bbfbc9a752497e5369df8603e1d04d",
+    "textSha256": "bf25859e3dc3cd7104360540eeb36a13769a7a9f10941435024b7385b33b278c"
+  },
+  {
+    "path": "audio/l07-05.mp3",
+    "lessonId": "l07",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.992,
+    "bytes": 29952,
+    "sha256": "2738343eda95e5fbdf4b92611fc1b685dc870329a6acdaf50eac32af96f7575e",
+    "textSha256": "891d10fa5e803975dae62f4e4a8bac2e9c42a4cf70400834af8f6de2b7067980"
+  },
+  {
+    "path": "audio/l07-06.mp3",
+    "lessonId": "l07",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.496,
+    "bytes": 32976,
+    "sha256": "3bce86303e14291ad9def311da7e8662a77f269ffae59c13a03403e2c1e40709",
+    "textSha256": "acb609079aed1bc7d29bc56c6f58abc7af38b3b6d5751c2d2571cfde668e2236"
+  },
+  {
+    "path": "audio/l07-07.mp3",
+    "lessonId": "l07",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.632,
+    "bytes": 27792,
+    "sha256": "ad2f7708186a59680fbcb01349466e51059bb5cf443379286836a63b9476cf00",
+    "textSha256": "36496a21fd327c94641329834590c882f57de5fe1c40e8fa8c686b22d551a16d"
+  },
+  {
+    "path": "audio/l08-full.mp3",
+    "lessonId": "l08",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 35.184,
+    "bytes": 211104,
+    "sha256": "24298aa00f8f99d8ab6da6c19c36a37e08480190b03a503453fdc930c9c1b5d9",
+    "textSha256": "e9156573cddbae0de1b13a8596378ebfffff5762545be257686098403d4af9dc"
+  },
+  {
+    "path": "audio/l08-01.mp3",
+    "lessonId": "l08",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.808,
+    "bytes": 34848,
+    "sha256": "090085f5633a71173768893603b073a9fcb297778e7fe4673fcdc73a4c80ef7f",
+    "textSha256": "755aa9b491b089a781201aa70e48d390ad39051ca5b8f33d59bf609afe266827"
+  },
+  {
+    "path": "audio/l08-02.mp3",
+    "lessonId": "l08",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.04,
+    "bytes": 30240,
+    "sha256": "0a44da544612f4e9cd3d425dbb1d32732c7995f7890f5fbd480d33eaf0f9d316",
+    "textSha256": "026c6571e53b005024e8639257055b2758462f6c8552ebe82f73f6bed17c9479"
+  },
+  {
+    "path": "audio/l08-03.mp3",
+    "lessonId": "l08",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.376,
+    "bytes": 32256,
+    "sha256": "a1e8701d0b0fac2ee5781f2015700ae5134de0711f455777ff115a0e062050cd",
+    "textSha256": "9720e387283162012daed3a3c0d8c6a7fdd9ebdced5aa7237f21815babecd0a7"
+  },
+  {
+    "path": "audio/l08-04.mp3",
+    "lessonId": "l08",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.824,
+    "bytes": 28944,
+    "sha256": "e44907c7e81c41cfc6b6de26b5ecec64abe0370dbc30c994f38ba6fa465b89c9",
+    "textSha256": "5da09d3074e42146a4f50390154cfe8214abced9b462ae2ac7d6245b22d38315"
+  },
+  {
+    "path": "audio/l08-05.mp3",
+    "lessonId": "l08",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.92,
+    "bytes": 29520,
+    "sha256": "a81f20f02c3d020efccf39d01268ccf474946c69c07725098525791905f8e15c",
+    "textSha256": "b791e8c1408a5f958309cf5bd58c5efc0894eea65b4470695635c8ec250f72e6"
+  },
+  {
+    "path": "audio/l08-06.mp3",
+    "lessonId": "l08",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.68,
+    "bytes": 28080,
+    "sha256": "c8928e09587c37eba6b78759ed1df40a74ae0303f02db783c63abec13a248881",
+    "textSha256": "aa12192aa36d085bc89c89de033ae0779434cf3456cbfb7bc929b404b4d32859"
+  },
+  {
+    "path": "audio/l08-07.mp3",
+    "lessonId": "l08",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.208,
+    "bytes": 31248,
+    "sha256": "79fe6c032d478e675012bc7af4185457009d8f03e424d00aeda2eb27bf5d617b",
+    "textSha256": "249789edc9799971a24c6f7176a4fa3140ccb92bcb0b98c5643a9225688be79c"
+  },
+  {
+    "path": "audio/l09-full.mp3",
+    "lessonId": "l09",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 33.816,
+    "bytes": 202896,
+    "sha256": "f10ecf792e94b16d501aa926225de64785dfa7a32db05f51e351f5a646f95257",
+    "textSha256": "3a8906ca9d622e75f932b49cb7202a4e591b7a61526e0ae0bf6da84902201b13"
+  },
+  {
+    "path": "audio/l09-01.mp3",
+    "lessonId": "l09",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.776,
+    "bytes": 28656,
+    "sha256": "93f85dde2abb1ec7b522038b188aac514c57b18e8c1eb73e3723735c763addbd",
+    "textSha256": "b4173f65c67aa625c824f659f9924fb282b800a38b25979dd5ecf6f1c715ad8a"
+  },
+  {
+    "path": "audio/l09-02.mp3",
+    "lessonId": "l09",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.64,
+    "bytes": 33840,
+    "sha256": "4045ebe31a615780c5d99a270b68431005a3fc6caf57414396a89cbcac889203",
+    "textSha256": "b6bf9e1e2761d86e81331053b278af94f379e5ae9bb5db1d9afe9be93f9a8a3c"
+  },
+  {
+    "path": "audio/l09-03.mp3",
+    "lessonId": "l09",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.184,
+    "bytes": 31104,
+    "sha256": "0eb436d0be4cfe946aa35ab6456518575dfb969d00c815b5284b6f46ab377ffb",
+    "textSha256": "44f1b114976be8eabcaefeb70f7e2916274f887e189b5391056b0b6aa6e30acb"
+  },
+  {
+    "path": "audio/l09-04.mp3",
+    "lessonId": "l09",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.04,
+    "bytes": 30240,
+    "sha256": "56fb12cad48db6de5e902f21ab823fb4891cdc32b77ceeb18930d479b4a379a9",
+    "textSha256": "595bc0799f962955ccd14ded0a754dacc75bc05de1ad5e954adbc21177483731"
+  },
+  {
+    "path": "audio/l09-05.mp3",
+    "lessonId": "l09",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.992,
+    "bytes": 29952,
+    "sha256": "c75a0c290f4bf23b11e6036854ca63a67c147e173208d89d4a964758fed673bb",
+    "textSha256": "6afe81daf22a811d7940442e915b3b73bf792655bc8e649ca9235444c4d03d32"
+  },
+  {
+    "path": "audio/l09-06.mp3",
+    "lessonId": "l09",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.56,
+    "bytes": 27360,
+    "sha256": "d133c5ffd7da7947c53589137525c85d9443e8419f2f83a03f580e6a3893581c",
+    "textSha256": "8687eed6114e232aae9b1693bca40659f2fcebf4bc0c847a6150022acce6a0ee"
+  },
+  {
+    "path": "audio/l09-07.mp3",
+    "lessonId": "l09",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.296,
+    "bytes": 25776,
+    "sha256": "155c5d52d5b5e8f629291d7fd7afcf1c9ed330480c1dff275db4af85d42c9ccd",
+    "textSha256": "5084aa77a4fc1e0937218a68a9c853e1facc8b0f82dadd44c7e5761f09883aa6"
+  },
+  {
+    "path": "audio/l10-full.mp3",
+    "lessonId": "l10",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 34.968,
+    "bytes": 209808,
+    "sha256": "1b856c51a0d0c272dd79c1ae405d973498f485f057954e3d408600e8c5a2bc5d",
+    "textSha256": "6637fe0025e65515a6da3a103a98b2d4eea975c23801810b9301e31e2f315fc4"
+  },
+  {
+    "path": "audio/l10-01.mp3",
+    "lessonId": "l10",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.088,
+    "bytes": 30528,
+    "sha256": "bacbead03ee605bb2aabc35af8cda57565950e53cc20f8abdc96705bc58d7820",
+    "textSha256": "6aa56e6113aac1b0816f24bf21fd5965b60c16ffb950c7dee863451c72e499a5"
+  },
+  {
+    "path": "audio/l10-02.mp3",
+    "lessonId": "l10",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.68,
+    "bytes": 28080,
+    "sha256": "db147c6af0b08106ca732194732ed258c91c35925a4aa471b7776cd3a27dff9e",
+    "textSha256": "55fcb73ea313481243bb2524f35689f0e16c960f44133bd69e582602cc6700b2"
+  },
+  {
+    "path": "audio/l10-03.mp3",
+    "lessonId": "l10",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.944,
+    "bytes": 29664,
+    "sha256": "213c7d4165a4c48a0ec7e319cc8b7dc808ccc12264e190445073107cc0a5de60",
+    "textSha256": "d7ee9e97453118bfcec6ef0bbb9c38536dc6e56fee77bf49ecfa36c4a44753cd"
+  },
+  {
+    "path": "audio/l10-04.mp3",
+    "lessonId": "l10",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.208,
+    "bytes": 31248,
+    "sha256": "4817ed952db765d02eb6a6f8b022fe784dcf4d0537cdc7252095655fedffe5db",
+    "textSha256": "a5d770b11173285987c6c876894125160941b844351e2cca01728ba0dec3fba7"
+  },
+  {
+    "path": "audio/l10-05.mp3",
+    "lessonId": "l10",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.896,
+    "bytes": 29376,
+    "sha256": "491541854f8581dd18a630ee44d3eadd21789e503bcebb762b9a1088abf5684d",
+    "textSha256": "c9aec7ec0cff1d17d1c331f0bfcadd1d74928c9c86b1e79db78195d9f114e165"
+  },
+  {
+    "path": "audio/l10-06.mp3",
+    "lessonId": "l10",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.064,
+    "bytes": 30384,
+    "sha256": "099884d8014ba0e48f91ab76486fc438310ba63a3d316fab9672dc4cfdaa4ac7",
+    "textSha256": "564458e0b7c005323c33ec93d866a8b6e6ff1e4b518f477aff914e8d6d1ea669"
+  },
+  {
+    "path": "audio/l10-07.mp3",
+    "lessonId": "l10",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.76,
+    "bytes": 34560,
+    "sha256": "85d3c94098dfd682cdec288953388b407975f27606f1f6246b0f2e31dbba1bfa",
+    "textSha256": "7b9e7b57108e7adca46e582a5bf06f4709d4653f7c2950962e29ecebd8aacd6a"
+  },
+  {
+    "path": "audio/l11-full.mp3",
+    "lessonId": "l11",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 35.52,
+    "bytes": 213120,
+    "sha256": "9c0add525e5432d25bdb591c0bd5842dfe6ff329207654a8c372727117cc2f2f",
+    "textSha256": "d850d083270adaddc7daf680b92f3c449f33170c399866824bc49413043654f4"
+  },
+  {
+    "path": "audio/l11-01.mp3",
+    "lessonId": "l11",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.232,
+    "bytes": 31392,
+    "sha256": "97e2ae6822327a5a997a7bfc678181274f69bfa0d836296cfc73c94c825259b3",
+    "textSha256": "0ec92d8124bf54eea3fc2ce1e244a9f030a60fa2988ba946a3cb9ca8b29576d2"
+  },
+  {
+    "path": "audio/l11-02.mp3",
+    "lessonId": "l11",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.112,
+    "bytes": 30672,
+    "sha256": "0ad9af00d9675dd37ec5d57b59e9471b55864efd95123ce63678cd70fc1bad5f",
+    "textSha256": "280dfb062b406c0e70607ec8a54316e2bed8adb536439910e0e9a88a47940a9a"
+  },
+  {
+    "path": "audio/l11-03.mp3",
+    "lessonId": "l11",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.184,
+    "bytes": 31104,
+    "sha256": "789ba63a6cec52e7142821a162406caae5f3fc4c38636f891ab33c7b3a16c252",
+    "textSha256": "982e5b6ef80137b2c0e94ccce9c47972b488d0e98afc846e2dec8f18fc6b0a21"
+  },
+  {
+    "path": "audio/l11-04.mp3",
+    "lessonId": "l11",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.088,
+    "bytes": 30528,
+    "sha256": "4b4b07918c542e31b4c49c46be92f4abe5d140f4992c33cdb6f6fa78e1971a4c",
+    "textSha256": "e0bda3797546c0a063c084632c89d170dacb060fe3c3b445891442f6187c021f"
+  },
+  {
+    "path": "audio/l11-05.mp3",
+    "lessonId": "l11",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.376,
+    "bytes": 32256,
+    "sha256": "c89f731c0c5cc07801c8ccd414dc5e9b3a2001513e5c5e3aa167d79d4297c8cd",
+    "textSha256": "55251db0dc48a566cded694385ea640917f43b68cdbe506870932dc8098f4a0a"
+  },
+  {
+    "path": "audio/l11-06.mp3",
+    "lessonId": "l11",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.92,
+    "bytes": 29520,
+    "sha256": "e422be692e6fabbce02ffb2a3b2da6756b639a5eb72ff5ff57829b1bbebeaf9e",
+    "textSha256": "aa4736cbc887c56c3f1434dbfa5cbde9fbf062ef09f836cb7e69f65c353ce2dc"
+  },
+  {
+    "path": "audio/l11-07.mp3",
+    "lessonId": "l11",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.304,
+    "bytes": 31824,
+    "sha256": "7dd2c003e7200b743b1ad6b536a49d324d5c53ca233ea1b655a94572bca68dab",
+    "textSha256": "4e012610c61787ab2f028b046fc1e735b461b89cbeaef6cbdb930d9d33ffee08"
+  },
+  {
+    "path": "audio/l12-full.mp3",
+    "lessonId": "l12",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 35.664,
+    "bytes": 213984,
+    "sha256": "248d471ce25113df9c43442306530d0c9e95d530beadaa7b197eec56febaf4f0",
+    "textSha256": "98d8a88fc36ff4dd5da0672ae33a7df3b0fbbefb97aa48eb6028f13e169ff535"
+  },
+  {
+    "path": "audio/l12-01.mp3",
+    "lessonId": "l12",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.584,
+    "bytes": 27504,
+    "sha256": "f3eae80cf2b6dc471cfce7599d86ef15f1dbc2603f042fc47af2f7a4bf318c60",
+    "textSha256": "5c05a4cbb7c8cc2945b20884a65a83e47e0b7fc1775f41538c3ac678172820be"
+  },
+  {
+    "path": "audio/l12-02.mp3",
+    "lessonId": "l12",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.976,
+    "bytes": 35856,
+    "sha256": "2e0301a8c82cec2d350240126359deb0008a8d2494c67a2c2adbf18fcd98321f",
+    "textSha256": "4055e09e92f314c2e8c42c0c73a8f7a24bfbe540429ab93c4bb4648827483995"
+  },
+  {
+    "path": "audio/l12-03.mp3",
+    "lessonId": "l12",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.896,
+    "bytes": 29376,
+    "sha256": "8dd1f0c1654fba4728a642f08dbf14f708716882d2a0a839a5f1bbecd8aca91c",
+    "textSha256": "1e0f5f7bce9a394ee548f41d476972dd3d18f1fb5822599724447452f76b5776"
+  },
+  {
+    "path": "audio/l12-04.mp3",
+    "lessonId": "l12",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.88,
+    "bytes": 35280,
+    "sha256": "252185956711a97c78137b5fc8d02ccffe1deb107dfbd50fe54b756745c4cc1b",
+    "textSha256": "d228578a86c572893127622b1aa51d466d59604fe8aa86c3ea143be579f3e7a0"
+  },
+  {
+    "path": "audio/l12-05.mp3",
+    "lessonId": "l12",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.656,
+    "bytes": 27936,
+    "sha256": "7ccc59ad9c9afbec2e864986d742d1e751497cf7d4fd5e5f5c536f009072b18c",
+    "textSha256": "a44c8c12e662c8bbc3c3e24f23f8ea74f7e85459b5dce5f87f8a6b7ba654de4a"
+  },
+  {
+    "path": "audio/l12-06.mp3",
+    "lessonId": "l12",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.752,
+    "bytes": 28512,
+    "sha256": "f1405000b5b877c440b411cc19385646e54938f05bd0707faa306bf514fdc82d",
+    "textSha256": "9c81047fa3b90d7ec41e8535a8ccdd29686d75440b2fde54c82753c5616473d2"
+  },
+  {
+    "path": "audio/l12-07.mp3",
+    "lessonId": "l12",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.616,
+    "bytes": 33696,
+    "sha256": "fc75973d6fce003b33c8d746f96d4b7df527f4b8533c77710ba900d473d09206",
+    "textSha256": "6aec7ce414da4863bbc199857605586e76dd72fdafc08644d6486573b5aefc0c"
+  },
+  {
+    "path": "audio/l13-full.mp3",
+    "lessonId": "l13",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 36.912,
+    "bytes": 221472,
+    "sha256": "9d069948c07e83a95bdf3a2c68307300564c8634d53258ec70e03b9985f81b67",
+    "textSha256": "49e00451f2c7ac585d16ef890f0295b0e6a21a57d2dcbf8d0f974d2aa8c50040"
+  },
+  {
+    "path": "audio/l13-01.mp3",
+    "lessonId": "l13",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.048,
+    "bytes": 36288,
+    "sha256": "d6b213319c14fe08c23a9a0589c181b209c0f64ff7256a96e17dc828ec664150",
+    "textSha256": "1cc3e5b6aa45ad216beae3b8d988ad141ff1c348675f82ae3b2e55da3f660e31"
+  },
+  {
+    "path": "audio/l13-02.mp3",
+    "lessonId": "l13",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.208,
+    "bytes": 31248,
+    "sha256": "4363129fa8e64bb9be56a19c2291b66e7ed131df17d8c871855572f781da75b6",
+    "textSha256": "94f0dbdaf89c4999594fb00725cc371ca35582a508cbeb0be330707065a5ea2c"
+  },
+  {
+    "path": "audio/l13-03.mp3",
+    "lessonId": "l13",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.512,
+    "bytes": 27072,
+    "sha256": "0420547bb8fd5b6e0882e7249cd446919ec31772fdf9589d57ca01f35ed26cae",
+    "textSha256": "a11db0d33c264bc2c390aeecced7326c5d5f6ee4e6f83642d2326fb59ed100b1"
+  },
+  {
+    "path": "audio/l13-04.mp3",
+    "lessonId": "l13",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.952,
+    "bytes": 35712,
+    "sha256": "0d997be0f9bc6a7518073d7e23df414f53a9a3c41f0ce4b779953e4c56b9493e",
+    "textSha256": "7b215c29a427694c40128e23b54ecdb50797c806372bd0115c66060a9fd94ee1"
+  },
+  {
+    "path": "audio/l13-05.mp3",
+    "lessonId": "l13",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.096,
+    "bytes": 36576,
+    "sha256": "91096ce730fed46de392809405641095a871ebd77a7dd6f329d10c99ed008df6",
+    "textSha256": "1592246c8293e7d85a5ffd8cabfba437e32bb03a9a8fc9496b9a5168af87cbb0"
+  },
+  {
+    "path": "audio/l13-06.mp3",
+    "lessonId": "l13",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.592,
+    "bytes": 33552,
+    "sha256": "0c994701ff7840250eaff60e42390b62eec2748afa588f5d91f732a0dca5832d",
+    "textSha256": "5a5c9f93e41b5401bf72e3bb5192f9675a75f956e3880d0f452c51fbb46b1328"
+  },
+  {
+    "path": "audio/l13-07.mp3",
+    "lessonId": "l13",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.176,
+    "bytes": 25056,
+    "sha256": "b5f8d4d25b7e633b1c64297805ce64f15e017dd439df9c2b66192b4942940244",
+    "textSha256": "fc92907848decb921ef91c9004448d1414571346cfd900e40a54aa28374ad046"
+  },
+  {
+    "path": "audio/l14-full.mp3",
+    "lessonId": "l14",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 36.792,
+    "bytes": 220752,
+    "sha256": "f41ae717edc25a24315f5257632de71c8e66a8084e2d317af4f06b14f331f431",
+    "textSha256": "afedc75289e76c5b00497be5893b0cc82aa27539208d924c167f59fa75cecc6a"
+  },
+  {
+    "path": "audio/l14-01.mp3",
+    "lessonId": "l14",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.12,
+    "bytes": 36720,
+    "sha256": "7a66d54cf516e030eb749369df8a03498d93a40ef57360ae0f7f5b405acdfda5",
+    "textSha256": "b0a95571a454a3c9d6327658e1270fb019a6f1923f616199934375e1d26ed325"
+  },
+  {
+    "path": "audio/l14-02.mp3",
+    "lessonId": "l14",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.096,
+    "bytes": 36576,
+    "sha256": "dd4f0146fd09df68d160385501ba57f0112e1b9e03134936709dc018ebc9c451",
+    "textSha256": "9a0c53d5881ff81fd0ab170cf2298e7799bd62c6d1bafe3d7d7be7708745ce73"
+  },
+  {
+    "path": "audio/l14-03.mp3",
+    "lessonId": "l14",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.192,
+    "bytes": 37152,
+    "sha256": "e0220a39ba51b2577464a1ec5633817f8e2e61f91511b774c579882ddfeeed25",
+    "textSha256": "53e6c4eee44d4c3a4d387156850d9e39b4a4b0562bcba1ff6b511101b573d629"
+  },
+  {
+    "path": "audio/l14-04.mp3",
+    "lessonId": "l14",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.704,
+    "bytes": 28224,
+    "sha256": "8f832328d78751fc2cddd058c016fa96cdcdc739730fd474caa172d37934c085",
+    "textSha256": "c16490d2a97dd35590532c6ff164f4af6ef7f4a61826b57121505df3665d3679"
+  },
+  {
+    "path": "audio/l14-05.mp3",
+    "lessonId": "l14",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.728,
+    "bytes": 28368,
+    "sha256": "470cdc2914f797db2527459ce08d523cef8a7a174976d40eba2f1686f7806c84",
+    "textSha256": "a015f12d53e7f2c8bbbd9a794802b4a11d5146219c318a790c9c0fa7ae80594b"
+  },
+  {
+    "path": "audio/l14-06.mp3",
+    "lessonId": "l14",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.544,
+    "bytes": 33264,
+    "sha256": "43476c625c914c9945b58d187e48f659869da54a0b0003bdd330fb30c5bbdbe6",
+    "textSha256": "48d727b8d401a9d30ea3adfc1c867c674f6722cce6760573f582d783930c3190"
+  },
+  {
+    "path": "audio/l14-07.mp3",
+    "lessonId": "l14",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.056,
+    "bytes": 24336,
+    "sha256": "89cbeeeaa1f78733172fa559ac1e4bc8dea8aa7f121c08c9408d6f90191066a2",
+    "textSha256": "b47490dbf389d8e97e19d59679bbf6f2ca5039fe3b66670d5da3a74625bf0c3e"
+  },
+  {
+    "path": "audio/l15-full.mp3",
+    "lessonId": "l15",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 37.152,
+    "bytes": 222912,
+    "sha256": "8f8b16a245637d0997018ac0b6235462034c3d351f80a3de718710b8b99376ef",
+    "textSha256": "a6ac4dd901321aeca9eb359249c5736f7235f161f4ff9969fd36fec19148b1c4"
+  },
+  {
+    "path": "audio/l15-01.mp3",
+    "lessonId": "l15",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.352,
+    "bytes": 32112,
+    "sha256": "334d027f134d4e170ed0717dbb8c20df9dd17070c03cbb338cc8410b76600582",
+    "textSha256": "cd1d347073b1f42d0e2e48aecafc9aef9338d08b4d528fe3e7f351d78c3ba109"
+  },
+  {
+    "path": "audio/l15-02.mp3",
+    "lessonId": "l15",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.784,
+    "bytes": 34704,
+    "sha256": "365ada886a86a4b6af4b5aa6c028d703eb28ba479a68ed925e88e3477cd48ec2",
+    "textSha256": "8c337c382ac85158036a4db207309c4c86b3c219378de06be5f8d0519932916f"
+  },
+  {
+    "path": "audio/l15-03.mp3",
+    "lessonId": "l15",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.728,
+    "bytes": 28368,
+    "sha256": "7fb86a33f83d5cba424f75ffb9c7eff8e330381f736f564f3c2a823a252e2e93",
+    "textSha256": "58571519616f2cdf1490d819b3b53fb78d847797ef08e6c2cf147bcdf8bd8b75"
+  },
+  {
+    "path": "audio/l15-04.mp3",
+    "lessonId": "l15",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.0,
+    "bytes": 36000,
+    "sha256": "13a04a136ae3e9a6fb04b26aedc9034fec672956f66f0985f75e52f7d490cb9b",
+    "textSha256": "d4e55a5cbe5ff81c1da077345fae112280dccab6816bb783db2a6022db57ad6f"
+  },
+  {
+    "path": "audio/l15-05.mp3",
+    "lessonId": "l15",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.592,
+    "bytes": 33552,
+    "sha256": "7e2755b1cd58ed55355e9db7f821f0bca628b35fe17553586184e55741622da6",
+    "textSha256": "522bf1c366bcca8f766a678e7374d08cf4c95bbc655a94701005db872168c46f"
+  },
+  {
+    "path": "audio/l15-06.mp3",
+    "lessonId": "l15",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.92,
+    "bytes": 29520,
+    "sha256": "e3639c08219c78861feebe568114d7d32fe6b74dcf60fe9a7449cace80a3c2fa",
+    "textSha256": "deb846762efb545f884a9681e8eed0c57939aad80dea14f91b9de22f154528e2"
+  },
+  {
+    "path": "audio/l15-07.mp3",
+    "lessonId": "l15",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.4,
+    "bytes": 32400,
+    "sha256": "1ee77947a166b9606941a0e4660e6fa8b522f0d1a2f75e5c1d2379a25cdd9fac",
+    "textSha256": "321251f2562abb1090b3e69d52e6ddcd710817f6933ae8203bddb1d168d3a385"
+  },
+  {
+    "path": "audio/l16-full.mp3",
+    "lessonId": "l16",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 36.216,
+    "bytes": 217296,
+    "sha256": "36fc4a679823fc7d67b1f5349cc01ecc4914fb37bd729a38e7d0cda24ddaf975",
+    "textSha256": "621f598eb7de5e161ffdf1561297cab1b4565d196c0f2a9fba124402b3985d49"
+  },
+  {
+    "path": "audio/l16-01.mp3",
+    "lessonId": "l16",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.712,
+    "bytes": 34272,
+    "sha256": "bad996e61488049385abf569479438745ede1cbbc8e6f032612a462ff42eed65",
+    "textSha256": "60493ae09feed8e865dcf4181e6d6ad56c54d5669fb34aaff58cbeb7297758fa"
+  },
+  {
+    "path": "audio/l16-02.mp3",
+    "lessonId": "l16",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.304,
+    "bytes": 31824,
+    "sha256": "2f8814bedb99ae4f0f88f6122b17e085ab04e4b5597a43d6a6c89f7caea22a78",
+    "textSha256": "267d07b74dce035ddca5acd648bc98e9ee6ab038375d839832f78b9f20a4247e"
+  },
+  {
+    "path": "audio/l16-03.mp3",
+    "lessonId": "l16",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.968,
+    "bytes": 29808,
+    "sha256": "8cde27f1fff5d7aed084fa2a17c22287437500dc556614ebc19ddd0b707e8c4f",
+    "textSha256": "a635a2c5c6201b1162422d6cde3acc398976656648329cc29ae9bfdc9b18644a"
+  },
+  {
+    "path": "audio/l16-04.mp3",
+    "lessonId": "l16",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.928,
+    "bytes": 35568,
+    "sha256": "4804537e8d7491c21b0d35fce6accfd0797c92928299d514641efdda3d306730",
+    "textSha256": "53e04fc5a09344a2c437b88ea94473fc15930b44e6449a3c5060ae87c7288185"
+  },
+  {
+    "path": "audio/l16-05.mp3",
+    "lessonId": "l16",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.896,
+    "bytes": 29376,
+    "sha256": "802852c667852d4fce87da275a015d2317d2d98d30b93d0ebdb7ba8f904bd7f8",
+    "textSha256": "d7874eeaacaa1a29f886e9324a88e52423631fb71959c3f8bdea15c1e998806a"
+  },
+  {
+    "path": "audio/l16-06.mp3",
+    "lessonId": "l16",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.976,
+    "bytes": 35856,
+    "sha256": "66fd2bf11bc0321c9712a90887939e21de113e327cc5cfe4dab1f7b1bf81b5e2",
+    "textSha256": "127d952e9eabfb2e92cb8b03471dc036025139399cb314919519d8d04bb4cf75"
+  },
+  {
+    "path": "audio/l16-07.mp3",
+    "lessonId": "l16",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.08,
+    "bytes": 24480,
+    "sha256": "198ec891e79c6de0f430262bb52508e82800b8924d0412487b5ebdb53d820dfa",
+    "textSha256": "0a47ba9550889ecf69f3c45547acf0db81da5482698563ed94fcc17094fbf049"
+  },
+  {
+    "path": "audio/l17-full.mp3",
+    "lessonId": "l17",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 36.744,
+    "bytes": 220464,
+    "sha256": "36b78b15644c397c39a1024a2ad9e7a51740bc7b769f531756aca0d3d58f90e4",
+    "textSha256": "73c37a3755537491f737d1c9177fa9b241a9a2e8a97f751d1cc171458afa81dc"
+  },
+  {
+    "path": "audio/l17-01.mp3",
+    "lessonId": "l17",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.64,
+    "bytes": 33840,
+    "sha256": "630fcaf29b1c00c0cb3cbc8c12912c297c9d81dc40f196d594abad364bc6a3c6",
+    "textSha256": "2676b2ab05f9aa5a6275e98bfdce3417106fbd1ce6a64f402fd9f18e0f5117c7"
+  },
+  {
+    "path": "audio/l17-02.mp3",
+    "lessonId": "l17",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.232,
+    "bytes": 31392,
+    "sha256": "ba7bf6db20a98f468762c8619d659b3c436c599b79d325d53ae8367c5f481410",
+    "textSha256": "96d57e8152e9147c3c472f0820bf3037b1d774fb8980a760d1ca208e65a21026"
+  },
+  {
+    "path": "audio/l17-03.mp3",
+    "lessonId": "l17",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.864,
+    "bytes": 41184,
+    "sha256": "3ac630ae6f5968ed98bfaa859da23de27e3b7b43bf806182ae28e647747fb4e4",
+    "textSha256": "889a2fa3f9b7c18cc0e713a911b686ec452591e457da893578ba46835667fa6c"
+  },
+  {
+    "path": "audio/l17-04.mp3",
+    "lessonId": "l17",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.904,
+    "bytes": 35424,
+    "sha256": "0983ed3a46be6df1ef2168edba6bb81954609da07cb1e47f8e7dc0c9388e70a0",
+    "textSha256": "783da00d56a07248d7a4aa45bb2d61b32367368bd2bc1f4b77bc667e3f9ed921"
+  },
+  {
+    "path": "audio/l17-05.mp3",
+    "lessonId": "l17",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.256,
+    "bytes": 31536,
+    "sha256": "8f31b53531bbba8ae237263367cb67a360eb0c53a3635228b71fd35d185948a3",
+    "textSha256": "888e960f8f8f6f7cf37aee6ec0a34db0e5d58946804d9a5ed6671dee759ae535"
+  },
+  {
+    "path": "audio/l17-06.mp3",
+    "lessonId": "l17",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 4.68,
+    "bytes": 28080,
+    "sha256": "2c0d690d0079f34189fea1402989b37d754e0a78fbff77bd2a286be939c2dc11",
+    "textSha256": "8bdef935c7321a84a74cc5986b59f64b89e5230d898a4de5d1a95cbf14fae743"
+  },
+  {
+    "path": "audio/l17-07.mp3",
+    "lessonId": "l17",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.816,
+    "bytes": 22896,
+    "sha256": "c66f961014eedd2764fd10e9b55db4a201d929c410daca2cdc6dd983ed01deca",
+    "textSha256": "0eac712e3737c1b0ec173c10533c4d9bf1c93e25cb8069b0e82ac611bb00300f"
+  },
+  {
+    "path": "audio/l18-full.mp3",
+    "lessonId": "l18",
+    "segment": null,
+    "voice": "en-GB-RyanNeural",
+    "duration": 38.52,
+    "bytes": 231120,
+    "sha256": "77d8da71146b36f46158188f94f2930bf70a1665d6537e19f1cea3f1633794a7",
+    "textSha256": "198d499d2c080fad9d32d3546a7e117a195c02dbd21df9a57e0ba53bd3dc846c"
+  },
+  {
+    "path": "audio/l18-01.mp3",
+    "lessonId": "l18",
+    "segment": 0,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.976,
+    "bytes": 35856,
+    "sha256": "aaadb95d05ee196103b9bbd2e340d0bed9c1a085555e69bf5251d33d6d565500",
+    "textSha256": "c11a8149a577d4a580361a7dde790ac6b0a3363d003719775f61ee6465a8915b"
+  },
+  {
+    "path": "audio/l18-02.mp3",
+    "lessonId": "l18",
+    "segment": 1,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.016,
+    "bytes": 30096,
+    "sha256": "cf6698b8ab331b1592341cb832367f111f38e12384bf498ae3ef2e942edd7651",
+    "textSha256": "d27552c7b18dd9d6dfb3480888f95dc83c9d2b7b9d8d2fff0c608ad1ffabf489"
+  },
+  {
+    "path": "audio/l18-03.mp3",
+    "lessonId": "l18",
+    "segment": 2,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.0,
+    "bytes": 36000,
+    "sha256": "51c0cfbb620444e4805dcb5a623f97d2db386bdb1090a2db87a58d8bff77efc3",
+    "textSha256": "9b3d1b1f94d0e503fac68006e564c5ad8eb6e377a039c49626fcaade832a3ac4"
+  },
+  {
+    "path": "audio/l18-04.mp3",
+    "lessonId": "l18",
+    "segment": 3,
+    "voice": "en-GB-RyanNeural",
+    "duration": 5.352,
+    "bytes": 32112,
+    "sha256": "74e13935bec62eb744842fd276f5405ca44dcbb72316d0627df0fd0572683607",
+    "textSha256": "58a139b318fa7442521c58504055429e71a3dd9c091feca824c60a82fe085207"
+  },
+  {
+    "path": "audio/l18-05.mp3",
+    "lessonId": "l18",
+    "segment": 4,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.816,
+    "bytes": 40896,
+    "sha256": "f23b0b47aafa113ccc77b77c5f5c96895d3eaedc9f21bd4c75b00de007e45b3d",
+    "textSha256": "0b29c9626374885afc9525e123485688be92bcd3d4672ca7de6afe0ff7adb990"
+  },
+  {
+    "path": "audio/l18-06.mp3",
+    "lessonId": "l18",
+    "segment": 5,
+    "voice": "en-GB-RyanNeural",
+    "duration": 6.096,
+    "bytes": 36576,
+    "sha256": "46a477492417a14a2cc5d9e1cd4eee479ac27a075ab6709632b49f65044dcf99",
+    "textSha256": "7089b131662e02839ce446b2ef2163abf86491108a7bb7e33c46bf30e3b94431"
+  },
+  {
+    "path": "audio/l18-07.mp3",
+    "lessonId": "l18",
+    "segment": 6,
+    "voice": "en-GB-RyanNeural",
+    "duration": 3.912,
+    "bytes": 23472,
+    "sha256": "6ffee0b4e7332b365ada659827bb66dc137968d636c4da5b3b2f6fe4f7ef1a84",
+    "textSha256": "618f2be572f14cbf464d99081d6d873edca7b723bef2ef3efb138c35592e62ec"
+  }
+]
