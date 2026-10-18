@@ -42,8 +42,8 @@ function makePlayer(url,label,{phrase=false}={}){
  box.audio=audio;box.playAudio=startPlay;box.change=(src,newLabel)=>{resetLoop();audio.pause();audio.src=src;box.querySelector('.player-label').textContent=newLabel;audio.load();};
  return box;
 }
-function fullURL(l){const p='audio/'+l.id+'-full.mp3';return window.ListenAccess?.asset(p)||p;}
-function phraseURL(l,i){const p='audio/'+l.id+'-'+String(i+1).padStart(2,'0')+'.mp3';return window.ListenAccess?.asset(p)||p;}
+function fullURL(l){return 'audio/'+l.id+'-full.mp3';}
+function phraseURL(l,i){return 'audio/'+l.id+'-'+String(i+1).padStart(2,'0')+'.mp3';}
 function addPhrase(l,i){E.add(state,l.id+':'+i);save();toast('Фраза добавлена в повторение');}
 function footer(){return el('footer',{},'Авторские тексты · Синтетическая озвучка Microsoft Ryan (UK). ',link('О приложении','#settings',''));}
 function home(){
@@ -127,7 +127,6 @@ function render(){cleanup();routeToken++;main.replaceChildren();const hash=locat
  else if(parts[0]==='bc')britishCouncil();
  else if(parts[0]==='mine')mine(routeToken);
  else if(parts[0]==='settings')settings();else home();
- if(parts[0]==='settings'&&window.ListenAccess){main.prepend(el('section',{class:'panel space'},el('h2',{},'Личный доступ'),el('p',{class:'small muted'},'Материалы открываются по секретной ссылке. Передавайте её только тем, кому хотите дать доступ.'),el('div',{class:'row space-sm'},button('Скопировать личную ссылку',()=>window.ListenAccess.copyLink().then(()=>toast('Личная ссылка скопирована')).catch(()=>toast('Не удалось скопировать. Сохраните файл доступа.')),'btn blue'),button('Сохранить файл доступа',()=>window.ListenAccess.downloadAccess(),'btn'),button('Закрыть доступ здесь',()=>window.ListenAccess.lock(),'btn ghost'))));}
  window.ListenOffline?.paint();window.scrollTo({top:0,behavior:'instant'});
 }
 document.querySelector('#settings').onclick=()=>go('#settings');window.addEventListener('hashchange',()=>{render();main.focus({preventScroll:true});});window.addEventListener('pagehide',()=>{save();cleanup();});window.addEventListener('pageshow',e=>{if(e.persisted)render();});render();save();

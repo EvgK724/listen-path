@@ -1,5 +1,5 @@
 'use strict';
-const VERSION='listen-path-v1-20261018-2',CORE=['./','index.html','style.css','content.js','engine.js','app.js','offline.js','manifest.webmanifest','precache.json','assets/icon.svg','assets/icon-180.png','assets/icon-192.png','assets/icon-512.png'];
+const VERSION='listen-path-v1-20261018-3',CORE=['./','index.html','style.css','content.js','engine.js','app.js','offline.js','manifest.webmanifest','precache.json','assets/icon.svg','assets/icon-180.png','assets/icon-192.png','assets/icon-512.png'];
 const base=self.registration.scope;const absolute=p=>new URL(p,base).href;let preparing=null;
 self.addEventListener('install',e=>e.waitUntil((async()=>{const c=await caches.open(VERSION);await c.addAll(CORE.map(absolute));await self.skipWaiting();})()));
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const k of await caches.keys())if(k.startsWith('listen-path-v')&&k!==VERSION)await caches.delete(k);await self.clients.claim();})()));

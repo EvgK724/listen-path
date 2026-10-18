@@ -4,6 +4,8 @@ Personal English listening practice from B1 to B2. Static installable web app, R
 
 Published at https://evgk724.github.io/listen-path/
 
+The application and original course are public, with an ordinary link and no sign-in or access key. Imported personal audio, notes and progress stay on the user's device and are never included in the public repository or sent to GitHub.
+
 18 original short lessons and 144 synthetic Microsoft Ryan (en-GB-RyanNeural) recordings: 18 complete tracks plus 126 sentence tracks. Gist, detail, optional dictation, hidden transcript, repetition with a pause, playback speed, A/B loops, retelling, and spaced phrase review. No grades or invented progress.
 
 12 British Council LearnEnglish lesson references open the complete official source page. British Council audio, transcripts, exercises and branding are not copied or republished. The independent personal-audio importer accepts the user's own or licensed recordings. Uploaded audio stays in IndexedDB on the device and is never sent to a server.
